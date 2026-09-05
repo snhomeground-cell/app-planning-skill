@@ -1,0 +1,15 @@
+{
+  "name": "app-planning-skill",
+  "description": "앱 기획 스킬 배포용 마켓플레이스",
+  "owner": {
+    "name": "snhomeground-cell",
+    "url": "https://github.com/snhomeground-cell"
+  },
+  "plugins": [
+    {
+      "name": "app-planning",
+      "source": "./",
+      "description": "앱·웹 서비스를 READY TO BUILD 상태까지 기획하는 Claude Code 스킬"
+    }
+  ]
+}
